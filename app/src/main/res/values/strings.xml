@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Retrofit2Post</string>
+    <string name="hello">Hello there! I would like to show you how to use retrofit 2 in POST METHOD</string>
+</resources>
